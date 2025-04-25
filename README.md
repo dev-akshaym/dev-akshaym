@@ -1,4 +1,4 @@
-👋 Hi, I’m **@dev-akshaym**
+👋 Hi, I’m Akshay Marjit (**@dev-akshaym**)
 
 👀 I’m interested in:
 - Building scalable web applications
@@ -18,6 +18,7 @@
 📫 How to reach me:
 - **Email**: [akshay.esoftking@gmail.com](akshay.esoftking@gmail.com)
 - **LinkedIn**: ([https://www.linkedin.com/in/akshay-marjit](https://in.linkedin.com/in/akshay-marjit-60411184))
+- - **WebSite**: ([www.esoftking.in](https://esoftking.in))
 
 😄 Pronouns: He/Him
 
